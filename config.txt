@@ -1,0 +1,2 @@
+//Config
+@Yara -t c:\Users\public -h -s -b -y c:\temp
